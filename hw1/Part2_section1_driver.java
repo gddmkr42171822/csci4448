@@ -7,7 +7,7 @@ package part2_section1_driver;
 
 /**
  *
- * @author bob
+ * 
  */
 public class Part2_section1_driver {
 	public static void main(String[] args) {
