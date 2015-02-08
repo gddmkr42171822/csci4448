@@ -7,7 +7,7 @@ package part2_section1_driver;
 
 /**
  *
- * @author bob
+ * 
  */
 public class UserUtility {
 	public static String createUsername(String firstname, String lastname) {
